@@ -4,7 +4,7 @@
 
 2. BASIC LOGIN FUNCTIONALITY:  Currently on. User can create an account but cannot login yet.
 
-3. ACCOUNT CREATION:
+3. ACCOUNT CREATION: Users can now create an account.
 
 4. AT LEAST 3 THING TYPE 1 CAN DO.  MUST IN SOME WAY CHANGE STATE OF APPLICATION:
 
