@@ -1,5 +1,9 @@
 # chanzik-brooks-0
 
+User Story:
+I want the user to be able to create an account with basic login function. The user will be able to choose whether they are an employee or customer so
+that they have access to their privileges. Employees whould be able to receive instant discounts.
+
 1. TWO TYPES OF USERS: My two types of users will be an employee and a customer which will both extend user. 
 
 2. BASIC LOGIN FUNCTIONALITY:  Currently on. User can create an account but cannot login yet.
